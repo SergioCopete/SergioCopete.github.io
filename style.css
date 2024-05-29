@@ -1,4 +1,6 @@
 
+
+
 body {
 display: table;
 }
@@ -8,34 +10,34 @@ height: 100%;
 }
 body {
 font-family: Raleway,Helvetica Neue,Helvetica,Arial,sans-serif;
-font-size: 8px;
+font-size: 16px;
 line-height: 1.428571429;
-color: #28ca9f;
+color: #36413e;
 background-color: #ededed;
+
 }
 body {
 margin: 0;
 }
-*, :after, :before {
-box-sizing: border-box;
+
+h1 {
+    font-weight:bold;
+    font-size:2em;
+    font-family: Arial, Helvetica, sans-serif;
 }
-User Agent Style Sheetbody {
-display: block;
-margin-top: 8px;
+
+a {
+    text-decoration: none;
 }
-*, :after, :before {
-box-sizing: border-box;
+
+.container {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
 }
-*, :after, :before {
-box-sizing: border-box;
+
+#social {
+    font-size: 30px;
 }
-html {
-font-size: 10px;
-}
-html {
-font-family: sans-serif;
--webkit-text-size-adjust: 100%;
-}
-User Agent Style Sheethtml {
-color: canvastext;
-}
+
+
