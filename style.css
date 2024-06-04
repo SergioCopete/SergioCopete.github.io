@@ -1,27 +1,24 @@
 
 
-
-body {
-display: table;
-}
 body, html {
 width: 100%;
 height: 100%;
 }
+
+body {
+    display: table;
+}
+
 body {
 font-family: Cormorant,Helvetica Neue,Helvetica,Arial,sans-serif;
 font-size: 24px;
 line-height: 1.428571429;
 color: #36413e;
 background-color: #ededed;
-
 }
+
 body {
-margin: 0;
-}
-
-body .detail {
-    font-size: 14px;
+margin: 0%;
 }
 
 h1 {
@@ -41,7 +38,8 @@ a:hover{
 .container {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: middle; 
+
 }
 
 #social {
