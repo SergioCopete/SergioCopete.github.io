@@ -20,6 +20,10 @@ body {
 margin: 0;
 }
 
+body .detail {
+    font-size: 14px;
+}
+
 h1 {
     font-family:kaushan script;
     font-weight:bold;
